@@ -1,2 +1,3 @@
 # hello-world
 My first program, started Feb 27, 2019
+I spent 40 hours in the past month speedrunning a single level in Goldeneye and couldn't cut off a second, so I thought maybe taking up a new hobby would help in this circumstance. Even though I'm still incredibly early in the process I feel excited and am having fun. Let's see where this goes...
